@@ -1,0 +1,5 @@
+this script uses the Pillow module to insert text in the image
+- first, install requirements.txt
+- add the image to input folder 
+- run the script
+- the resulting image is in output folder
